@@ -2,7 +2,7 @@
 
 Bu repo [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![](https://github.com/furkanncskn/kodluyoruzilkrepo/blob/main/kodluyoruzilkrepo.png)
+![](https://github.com/furkanncskn/kodluyoruzilkrepo/blob/master/kodluyoruzilkrepo.png)
 
 ## **Installation**
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
